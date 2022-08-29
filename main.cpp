@@ -121,6 +121,3 @@ void solveLine(const Coefficients *equation, Solution *solution){
     solution -> x1 = -equation -> c / equation -> b;
     solution -> x2 = solution ->  x1;
 }
-
-
-//find modifier to print float pointing numbers with appropriate accuracy
