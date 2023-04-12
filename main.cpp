@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 
     Coefficients equation = {};
     if (getEquation(&equation)) {
-        fprintf(stderr, "U, clown, take ur symbols and getEquation away\n");
+        fprintf(stderr, "U, clown, take ur symbols and get away\n");
         return EXIT_FAILURE;
     }
 
